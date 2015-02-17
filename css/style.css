@@ -1,0 +1,9 @@
+body {
+    background-image: url("assets/pixel_weave.png");
+}
+
+.main {
+    position: absolute;
+    top: 45%;
+    left: 15%;
+}
