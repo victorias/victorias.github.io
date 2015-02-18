@@ -2,6 +2,7 @@
 body {
   background-image: url("/assets/pixel_weave.png");
   font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 20px;
 }
 .main {
   position: absolute;
@@ -11,6 +12,7 @@ body {
 .name {
   color: #0b486b;
   font-family: 'Pacifico', cursive;
+  font-size: 50px;
 }
 .byline {
   color: #adadad;
