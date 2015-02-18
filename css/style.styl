@@ -2,11 +2,12 @@
 base-dark-blue = #0B486B
 base-cyan = #5A9999
 base-grey = #ADADAD
+default-font-size = 20px
 
 body
     background-image: url("/assets/pixel_weave.png")
     font-family: 'PT Sans Narrow', sans-serif
-    font-size: 20px
+    font-size: default-font-size
 
 .main
     position: absolute
@@ -16,10 +17,13 @@ body
 .name
     color: base-dark-blue
     font-family: 'Pacifico', cursive
-    font-size: 50px
+    font-size: default-font-size * 3
 
 .byline
     color: base-grey
 
 a
     color: base-cyan
+    
+.links
+    font-size: default-font-size - 5px

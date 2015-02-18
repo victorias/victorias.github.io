@@ -12,11 +12,14 @@ body {
 .name {
   color: #0b486b;
   font-family: 'Pacifico', cursive;
-  font-size: 50px;
+  font-size: 60px;
 }
 .byline {
   color: #adadad;
 }
 a {
   color: #5a9999;
+}
+.links {
+  font-size: 15px;
 }
