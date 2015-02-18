@@ -1,7 +1,7 @@
 /* some basic colors */
 body {
   background-image: url("/assets/pixel_weave.png");
-  font-family: Georgia;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 .main {
   position: absolute;
@@ -10,7 +10,7 @@ body {
 }
 .name {
   color: #0b486b;
-  font-style: italic;
+  font-family: 'Pacifico', cursive;
 }
 .byline {
   color: #adadad;
