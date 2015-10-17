@@ -34,6 +34,15 @@
 
 
         </script>
+
+        <script>
+        // swizzle
+            var old_mixpanel = mixpanel.track;
+            mixpanel.track = function(label) {
+                old_mixpanel(label);
+                amplitude.logEvent(label);
+            }
+        </script>
     </head>
 
     <body>
