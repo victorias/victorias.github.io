@@ -224,7 +224,12 @@ const App = () => {
           Ava Bridal is the first online bridal shop for designer wedding
           dresses. We are raising a seed round in October 2019.
         </HeaderHero>
-        <CTA href="test">Download our pitch deck</CTA>
+        <CTA
+          href="https://drive.google.com/file/d/1Nk6udloxGDvS7hWF77hsW51qo64XeuQg/view"
+          target="__blank"
+        >
+          Download our pitch deck
+        </CTA>
         <Contact>
           Contact us at{" "}
           <a href="mailto:hello@nightlist.app">hello@nightlist.app</a>
