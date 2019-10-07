@@ -1,6 +1,6 @@
 {
-  "short_name": "ava bridal",
-  "name": "ava bridal: shop designer dresses online",
+  "name": "",
+  "short_name": "",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
@@ -13,8 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "display": "standalone"
 }
